@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Junior at Utica University, I am majoring in cybersecurity and minoring in computer science. I started my college education as a computer science student and made the switch to cybersecurity this year. I am fluent in multiple programming languages and eager to learn more.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -15,12 +15,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python, Java         | |
+| Network Traffic Monitoring and Attack Detection | |
+|          | |
+| Incident Response Planning and Execution      | |
+|                   | |
+| Scripting and Automation for Threat Mitigation | |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
