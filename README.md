@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a Junior at Utica University, I am majoring in cybersecurity and minoring in computer science. I started my college education as a computer science student and made the switch to cybersecurity this year. I am fluent in multiple programming languages and eager to learn more.
+I am a Junior at Utica University, I am majoring in cybersecurity and minoring in computer science. I started my college education as a computer science student and made the switch to cybersecurity for my junior year. I am fluent in multiple programming languages and eager to learn more.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
